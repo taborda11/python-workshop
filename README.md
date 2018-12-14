@@ -6,3 +6,6 @@ Python workshop for beginners
 2. Open colaboratory
 3. Go to File -> Upload notebook and upload the downloaded file
 4. **Start coding**
+
+
+**EMAIL** - bruno_taborda@iscte.pt
